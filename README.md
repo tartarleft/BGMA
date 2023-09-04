@@ -1,12 +1,11 @@
 # Background Music Attack
-Demos and PyTorch implementation of Background Music Attack (BGMA) in our paper ["Fooling Speaker Identification Systems with Adversarial Background Music"](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html) (INTERSPEECH 2023).
+Demos and PyTorch implementation(The code will be released sooner) of Background Music Attack (BGMA) in our paper ["Fooling Speaker Identification Systems with Adversarial Background Music"](https://www.isca-speech.org/archive/Interspeech_2020/abstracts/1275.html) (INTERSPEECH 2023).
 
 ## Prerequisites
 * Python (3.6.9)
 * Pytorch (1.2.0)
 * SoundFile (0.10.3)
 * librosa (0.8.1)
-* 
 * CUDA
 * numpy
 
