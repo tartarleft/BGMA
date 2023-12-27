@@ -58,7 +58,7 @@ https://github.com/tartarleft/BGMA/assets/22472110/9f403029-962b-4856-8f64-05407
 
 ## Pretrained Models
 
-We provide the pretrained SI mode and pretrained music model one can download in the [link](https://drive.google.com/file/d/1HImd_K88Q7cLkRowbDV-CpItgsjnlF3B/view?usp=drive_link). Unzip the ckpt folder into the root directory of the project.
+We provide the pretrained SI models and pretrained music model one can download in the [link](https://drive.google.com/file/d/1HImd_K88Q7cLkRowbDV-CpItgsjnlF3B/view?usp=drive_link). Unzip the ckpt folder into the root directory of the project.
 
 ## Usage
 ## Reference
