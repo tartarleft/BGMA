@@ -60,9 +60,9 @@ https://github.com/tartarleft/BGMA/assets/22472110/9f403029-962b-4856-8f64-05407
 
 ## Pretrained Models
 
-We provide the pretrained SI models and pretrained music model one can download in the [link](https://drive.google.com/file/d/1HImd_K88Q7cLkRowbDV-CpItgsjnlF3B/view?usp=drive_link). Unzip the ckpt folder into the root directory of the project.
+We provide the pretrained SI models and pretrained music model in the [link](https://drive.google.com/file/d/1HImd_K88Q7cLkRowbDV-CpItgsjnlF3B/view?usp=drive_link). To run this project, unzip the 'ckpt' folder into the root directory of the project.
 ## Data
-We provide the test waves on TIMIT and the enrolled speaker embeddings in [link](https://drive.google.com/file/d/1lnlc32JP2fpRWDkrO7pt9kgXOLbcqu2J/view?usp=sharing). Unzip the data folder into the root directory of the project. To reimplement the experiment in our paper, you also have to download the [MUSAN](https://www.openslr.org/17/), and use the classical-HD subset as the initialization music. You can download the dataset into ./data or modify the corresponding path in ./config/basic.json.
+We provide the test waves on TIMIT and the enrolled speaker embeddings in [link](https://drive.google.com/file/d/1lnlc32JP2fpRWDkrO7pt9kgXOLbcqu2J/view?usp=sharing). To run this project,, unzip the 'data' folder into the root directory of the project. To reimplement the experiment in our paper, you also have to download the [MUSAN](https://www.openslr.org/17/) dataset and use the classical-HD subset as the initialization music. You can download the dataset into './data' or modify the corresponding path in './config/basic.json'.
  
 ## Usage
 To run the PGD attack on music wave, run:
