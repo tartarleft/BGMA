@@ -397,10 +397,10 @@ def main(config):
             attacker.MusicAttackDirectRandtgt(epsilon, steps, args.beta, 'linf')
         elif args.exp == 'BGMA-rand':
             attacker.clipMusicSlice(mode='r')
-            attacker.BGMARandTgt(600, args.beta)
+            attacker.BGMARandTgt(args.steps, args.beta)
         elif args.exp == 'BGMA-all':
             attacker.clipMusicSlice(mode='r')
-            attacker.BGMAAllTgt(600, 1)
+            attacker.BGMAAllTgt(args.steps, 1)
 
 
 if __name__ == '__main__':
