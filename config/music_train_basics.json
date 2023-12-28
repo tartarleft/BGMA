@@ -1,7 +1,7 @@
 {
-    "musan_music": "/data/ssd/zuocx/musan/music/*/*.wav",
-    "musan_classical": "/data/ssd/zuocx/musan/music/hd-classical/*.wav",
-    "piano_music":"/data/ssd/zuocx/raw_audios/raw_audios_piano/*.mp3",
-    "guitar_music":"/data/ssd/zuocx/raw_audios/raw_audios_guitar/*.mp3",
+    "musan_music": "./data/musan/music/*/*.wav",
+    "musan_classical": "./data/musan/music/hd-classical/*.wav",
+    "piano_music":"./data/raw_audios/raw_audios_piano/*.mp3",
+    "guitar_music":"./data/raw_audios/raw_audios_guitar/*.mp3",
     "sr": 16000
 }
