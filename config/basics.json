@@ -1,5 +1,5 @@
 {
-    "musan_music": "/data/ssd/zuocx/musan/*/*.wav",
-    "musan_classical": "/data/ssd/zuocx/musan/hd-classical/*.wav",
+    "musan_music": "./data/musan/*/*.wav",
+    "musan_classical": "./data/musan/hd-classical/*.wav",
     "sr": 16000
 }
